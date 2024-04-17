@@ -12,7 +12,7 @@ This is a simple job board application built with Django. It allows users to pos
 ## Tech Stack
 
 - Python 3.8
-- Django 3.2
+- Django 5.0.4
 - PostgreSQL
 
 ## Setup

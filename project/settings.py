@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+<<<<<<< Updated upstream
 
 # my applications
     'accounts',
@@ -45,6 +46,14 @@ INSTALLED_APPS = [
     'job',
     'blog',
     'contact',
+=======
+    #My Apps
+    'accounts',
+    'blog',
+    'contact',
+    'home',
+    'job',
+>>>>>>> Stashed changes
 ]
 
 MIDDLEWARE = [

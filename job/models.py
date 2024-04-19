@@ -14,3 +14,6 @@ class Job (models.Model):
     Vacancy = models.IntegerField(default=1)
     Salary = models.IntegerField(default=0)
     Experience = models.IntegerField(default=1)
+
+    def __str__(self):
+        return self.title
